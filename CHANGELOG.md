@@ -1,5 +1,12 @@
 # Wick's Survivors -- Changelog
 
+## 0.4.1 - 2026-10-01
+
+### Fixed
+
+- Loads on the 2.5.6 client without being marked out of date. The addon
+  now lists interface 20506 alongside 20505.
+
 ## 0.4.0 -- 2026-09-19
 
 ### Added
